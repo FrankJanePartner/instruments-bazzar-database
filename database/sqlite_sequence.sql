@@ -1,0 +1,13 @@
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('django_migrations', 34);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('django_content_type', 21);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('auth_permission', 84);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('auth_group', 0);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('django_admin_log', 20);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('taggit_taggeditem', 0);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('taggit_tag', 0);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('store_productspecification', 0);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('orders_orderitem', 0);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('account_customer', 3);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('store_category', 13);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('account_otptoken', 2);
+INSERT INTO `sqlite_sequence` (`name`, `seq`) VALUES ('store_productimage', 0);

@@ -1,0 +1,1 @@
+INSERT INTO `account_customer` (`id`, `password`, `last_login`, `is_superuser`, `email`, `first_name`, `last_name`, `is_active`, `is_staff`) VALUES (1, 'pbkdf2_sha256$720000$lVhZhsRmKxv3JAyHEW4AcG$B8IQ02/0oE01u8VQDEPRaooNkscKpPvwN8xXkCcInDs=', '2024-05-09 12:08:47.435432', 1, 'info@instrumentsbazzar.com', 'InstrumentsBazzar', 'Administration', 1, 1);
